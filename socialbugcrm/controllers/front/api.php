@@ -1,4 +1,4 @@
-<?php
+<?
 /**
  * @author SocialBug Team <support@mlm-socialbug.com>
  * @copyright 2019 KM Innovations Inc
